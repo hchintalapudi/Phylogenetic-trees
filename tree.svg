@@ -1,0 +1,417 @@
+<svg height="1280" width="1920" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type="text/css"><![CDATA[
+	polyline { fill: none; stroke: black; stroke-width: 1 }
+	path { fill: none; stroke: black; stroke-width: 1 }
+	line { fill: none; stroke: black; stroke-width: 1 }
+	circle.node_circle  {}
+	circle.taxon_circle {}
+	text.node_text      {}
+	text.taxon_text     {}
+	line.scale_bar      {}
+	text.scale_label    {}
+	line.scale_major    {}
+	line.scale_minor    {}
+]]></style>
+    <path d="M1641,123 C1641,197 1719,197 1719,197" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1719.96857653589 197.5)" x="1725" y="201">4 gi 157954424 ref NP 001103286 1  myosin-4  Oryctolagus cuniculus   gi 13431707 sp Q28641 1 MYH4 RABIT RecName  Full=Myosin-4  AltName  Full=Myosin heavy chain 2b  Short=MyHC-2b  AltName  Full=Myosin heavy chain 4  AltName  Full=Myosin heavy chain  skelet</text>
+    <path d="M1641,123 C1641,50 1719,50 1719,50" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1719.96857653589 50)" x="1725" y="54">1 gi 115527082 ref NP 005954 3  myosin-1  Homo sapiens   gi 226694176 sp P12882 3 MYH1 HUMAN RecName  Full=Myosin-1  AltName  Full=Myosin heavy chain 1  AltName  Full=Myosin heavy chain 2x  Short=MyHC-2x  AltName  Full=Myosin heavy chain IIx/d  Short=MyHC-</text>
+    <path d="M1710,418 C1710,492 1719,492 1719,492" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1720 492.5)" x="1725" y="496">3 gi 153792649 ref NP 001093105 1  myosin-3  Mus musculus   gi 568972041 ref XP 006532475 1  PREDICTED  myosin-3 isoform X1  Mus musculus   gi 122065566 sp P13541 2 MYH3 MOUSE RecName  Full=Myosin-3  AltName  Full=Myosin heavy chain 3</text>
+    <path d="M1710,418 C1710,345 1719,345 1719,345" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1720 345)" x="1725" y="349">2 gi 6981234 ref NP 036736 1  myosin-3  Rattus norvegicus   gi 127755 sp P12847 1 MYH3 RAT RecName  Full=Myosin-3  AltName  Full=Myosin heavy chain 3  AltName  Full=Myosin heavy chain  fast skeletal muscle  embryonic  Rattus norvegicus   gi 1619328 emb CAA</text>
+    <path d="M1348,271 C1348,418 1710,418 1710,418" style="stroke: black; stroke-width: 1" />
+    <path d="M1348,271 C1348,123 1641,123 1641,123" style="stroke: black; stroke-width: 1" />
+    <path d="M1687,713 C1687,787 1720,787 1720,787" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1720 787.5)" x="1726" y="791">6 gi 6754774 ref NP 034986 1  myosin-6  Mus musculus   gi 255918225 ref NP 001157643 1  myosin-6  Mus musculus   gi 3024204 sp Q02566 2 MYH6 MOUSE RecName  Full=Myosin-6  AltName  Full=Myosin heavy chain 6  AltName  Full=Myosin heavy chain  cardiac muscle </text>
+    <path d="M1687,713 C1687,640 1720,640 1720,640" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1720 640)" x="1726" y="644">5 gi 3915779 sp P13539 2 MYH6 MESAU RecName  Full=Myosin-6  AltName  Full=Myosin heavy chain 6  AltName  Full=Myosin heavy chain  cardiac muscle alpha isoform  Short=MyHC-alpha  Mesocricetus auratus   gi 402374 gb AAB59701 1  alpha-cardiac myosin heavy cha</text>
+    <path d="M1542,824 C1542,935 1719,935 1719,935" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1720 935)" x="1725" y="939">7 gi 125987844 sp P79293 2 MYH7 PIG RecName  Full=Myosin-7  AltName  Full=Myosin heavy chain 7  AltName  Full=Myosin heavy chain slow isoform  Short=MyHC-slow  AltName  Full=Myosin heavy chain  cardiac muscle beta isoform  Short=MyHC-beta  Sus scrofa   gi </text>
+    <path d="M1542,824 C1542,713 1687,713 1687,713" style="stroke: black; stroke-width: 1" />
+    <path d="M1279,547 C1279,824 1542,824 1542,824" style="stroke: black; stroke-width: 1" />
+    <path d="M1279,547 C1279,271 1348,271 1348,271" style="stroke: black; stroke-width: 1" />
+    <path d="M50,815 C50,1082 1719,1082 1719,1082" style="stroke: black; stroke-width: 1" />
+    <text class="taxon_text" style="" transform="rotate( 1719.96857653589 1082.5)" x="1725" y="1086">8 gi 45382693 ref NP 990808 1  myosin-9  Gallus gallus   gi 127759 sp P14105 1 MYH9 CHICK RecName  Full=Myosin-9  AltName  Full=Cellular myosin heavy chain  type A  AltName  Full=Myosin heavy chain 9  AltName  Full=Myosin heavy chain  non-muscle IIa  AltNa</text>
+    <path d="M50,815 C50,547 1279,547 1279,547" style="stroke: black; stroke-width: 1" />
+    <line class="scale_bar" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="50" x2="1720" y1="1275" y2="1275" />
+    <text class="scale_label" style="" transform="rotate()" x="1726" y="1275">MYA</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="50" x2="50" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="50" y="1245">0</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="60" x2="60" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="60" y="1245">0.00318233532934132</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="70" x2="70" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="70" y="1245">0.00636467065868264</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="80" x2="80" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="80" y="1245">0.00954700598802395</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="90" x2="90" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="90" y="1245">0.0127293413173653</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="100" x2="100" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="100" y="1245">0.0159116766467066</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="110" x2="110" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="110" y="1245">0.0190940119760479</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="120" x2="120" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="120" y="1245">0.0222763473053892</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="130" x2="130" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="130" y="1245">0.0254586826347305</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="140" x2="140" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="140" y="1245">0.0286410179640719</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="150" x2="150" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="150" y="1245">0.0318233532934132</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="160" x2="160" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="160" y="1245">0.0350056886227545</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="170" x2="170" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="170" y="1245">0.0381880239520958</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="180" x2="180" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="180" y="1245">0.0413703592814371</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="190" x2="190" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="190" y="1245">0.0445526946107785</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="200" x2="200" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="200" y="1245">0.0477350299401198</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="210" x2="210" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="210" y="1245">0.0509173652694611</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="220" x2="220" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="220" y="1245">0.0540997005988024</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="230" x2="230" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="230" y="1245">0.0572820359281437</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="240" x2="240" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="240" y="1245">0.0604643712574851</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="250" x2="250" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="250" y="1245">0.0636467065868264</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="260" x2="260" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="260" y="1245">0.0668290419161677</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="270" x2="270" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="270" y="1245">0.070011377245509</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="280" x2="280" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="280" y="1245">0.0731937125748503</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="290" x2="290" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="290" y="1245">0.0763760479041916</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="300" x2="300" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="300" y="1245">0.0795583832335329</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="310" x2="310" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="310" y="1245">0.0827407185628743</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="320" x2="320" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="320" y="1245">0.0859230538922156</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="330" x2="330" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="330" y="1245">0.0891053892215569</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="340" x2="340" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="340" y="1245">0.0922877245508982</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="350" x2="350" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="350" y="1245">0.0954700598802395</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="360" x2="360" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="360" y="1245">0.0986523952095808</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="370" x2="370" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="370" y="1245">0.101834730538922</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="380" x2="380" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="380" y="1245">0.105017065868263</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="390" x2="390" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="390" y="1245">0.108199401197605</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="400" x2="400" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="400" y="1245">0.111381736526946</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="410" x2="410" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="410" y="1245">0.114564071856287</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="420" x2="420" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="420" y="1245">0.117746407185629</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="430" x2="430" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="430" y="1245">0.12092874251497</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="440" x2="440" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="440" y="1245">0.124111077844311</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="450" x2="450" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="450" y="1245">0.127293413173653</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="460" x2="460" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="460" y="1245">0.130475748502994</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="470" x2="470" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="470" y="1245">0.133658083832335</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="480" x2="480" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="480" y="1245">0.136840419161677</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="490" x2="490" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="490" y="1245">0.140022754491018</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="500" x2="500" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="500" y="1245">0.143205089820359</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="510" x2="510" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="510" y="1245">0.146387425149701</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="520" x2="520" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="520" y="1245">0.149569760479042</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="530" x2="530" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="530" y="1245">0.152752095808383</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="540" x2="540" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="540" y="1245">0.155934431137724</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="550" x2="550" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="550" y="1245">0.159116766467066</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="560" x2="560" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="560" y="1245">0.162299101796407</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="570" x2="570" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="570" y="1245">0.165481437125748</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="580" x2="580" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="580" y="1245">0.16866377245509</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="590" x2="590" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="590" y="1245">0.171846107784431</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="600" x2="600" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="600" y="1245">0.175028443113772</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="610" x2="610" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="610" y="1245">0.178210778443114</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="620" x2="620" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="620" y="1245">0.181393113772455</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="630" x2="630" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="630" y="1245">0.184575449101796</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="640" x2="640" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="640" y="1245">0.187757784431138</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="650" x2="650" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="650" y="1245">0.190940119760479</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="660" x2="660" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="660" y="1245">0.19412245508982</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="670" x2="670" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="670" y="1245">0.197304790419162</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="680" x2="680" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="680" y="1245">0.200487125748503</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="690" x2="690" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="690" y="1245">0.203669461077844</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="700" x2="700" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="700" y="1245">0.206851796407185</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="710" x2="710" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="710" y="1245">0.210034131736527</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="720" x2="720" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="720" y="1245">0.213216467065868</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="730" x2="730" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="730" y="1245">0.216398802395209</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="740" x2="740" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="740" y="1245">0.219581137724551</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="750" x2="750" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="750" y="1245">0.222763473053892</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="760" x2="760" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="760" y="1245">0.225945808383233</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="770" x2="770" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="770" y="1245">0.229128143712575</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="780" x2="780" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="780" y="1245">0.232310479041916</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="790" x2="790" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="790" y="1245">0.235492814371257</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="800" x2="800" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="800" y="1245">0.238675149700599</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="810" x2="810" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="810" y="1245">0.24185748502994</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="820" x2="820" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="820" y="1245">0.245039820359281</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="830" x2="830" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="830" y="1245">0.248222155688623</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="840" x2="840" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="840" y="1245">0.251404491017964</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="850" x2="850" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="850" y="1245">0.254586826347305</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="860" x2="860" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="860" y="1245">0.257769161676646</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="870" x2="870" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="870" y="1245">0.260951497005988</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="880" x2="880" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="880" y="1245">0.264133832335329</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="890" x2="890" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="890" y="1245">0.26731616766467</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="900" x2="900" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="900" y="1245">0.270498502994012</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="910" x2="910" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="910" y="1245">0.273680838323353</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="920" x2="920" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="920" y="1245">0.276863173652694</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="930" x2="930" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="930" y="1245">0.280045508982036</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="940" x2="940" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="940" y="1245">0.283227844311377</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="950" x2="950" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="950" y="1245">0.286410179640718</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="960" x2="960" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="960" y="1245">0.28959251497006</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="970" x2="970" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="970" y="1245">0.292774850299401</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="980" x2="980" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="980" y="1245">0.295957185628742</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="990" x2="990" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="990" y="1245">0.299139520958084</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1000" x2="1000" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1000" y="1245">0.302321856287425</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1010" x2="1010" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1010" y="1245">0.305504191616766</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1020" x2="1020" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1020" y="1245">0.308686526946107</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1030" x2="1030" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1030" y="1245">0.311868862275449</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1040" x2="1040" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1040" y="1245">0.31505119760479</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1050" x2="1050" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1050" y="1245">0.318233532934131</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1060" x2="1060" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1060" y="1245">0.321415868263473</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1070" x2="1070" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1070" y="1245">0.324598203592814</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1080" x2="1080" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1080" y="1245">0.327780538922155</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1090" x2="1090" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1090" y="1245">0.330962874251497</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1100" x2="1100" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1100" y="1245">0.334145209580838</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1110" x2="1110" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1110" y="1245">0.337327544910179</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1120" x2="1120" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1120" y="1245">0.340509880239521</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1130" x2="1130" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1130" y="1245">0.343692215568862</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1140" x2="1140" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1140" y="1245">0.346874550898203</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1150" x2="1150" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1150" y="1245">0.350056886227545</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1160" x2="1160" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1160" y="1245">0.353239221556886</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1170" x2="1170" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1170" y="1245">0.356421556886227</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1180" x2="1180" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1180" y="1245">0.359603892215568</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1190" x2="1190" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1190" y="1245">0.36278622754491</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1200" x2="1200" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1200" y="1245">0.365968562874251</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1210" x2="1210" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1210" y="1245">0.369150898203592</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1220" x2="1220" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1220" y="1245">0.372333233532934</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1230" x2="1230" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1230" y="1245">0.375515568862275</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1240" x2="1240" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1240" y="1245">0.378697904191616</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1250" x2="1250" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1250" y="1245">0.381880239520958</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1260" x2="1260" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1260" y="1245">0.385062574850299</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1270" x2="1270" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1270" y="1245">0.38824491017964</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1280" x2="1280" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1280" y="1245">0.391427245508982</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1290" x2="1290" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1290" y="1245">0.394609580838323</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1300" x2="1300" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1300" y="1245">0.397791916167664</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1310" x2="1310" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1310" y="1245">0.400974251497006</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1320" x2="1320" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1320" y="1245">0.404156586826347</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1330" x2="1330" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1330" y="1245">0.407338922155688</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1340" x2="1340" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1340" y="1245">0.410521257485029</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1350" x2="1350" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1350" y="1245">0.413703592814371</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1360" x2="1360" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1360" y="1245">0.416885928143712</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1370" x2="1370" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1370" y="1245">0.420068263473053</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1380" x2="1380" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1380" y="1245">0.423250598802395</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1390" x2="1390" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1390" y="1245">0.426432934131736</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1400" x2="1400" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1400" y="1245">0.429615269461077</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1410" x2="1410" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1410" y="1245">0.432797604790419</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1420" x2="1420" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1420" y="1245">0.43597994011976</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1430" x2="1430" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1430" y="1245">0.439162275449101</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1440" x2="1440" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1440" y="1245">0.442344610778443</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1450" x2="1450" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1450" y="1245">0.445526946107784</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1460" x2="1460" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1460" y="1245">0.448709281437125</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1470" x2="1470" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1470" y="1245">0.451891616766467</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1480" x2="1480" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1480" y="1245">0.455073952095808</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1490" x2="1490" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1490" y="1245">0.458256287425149</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1500" x2="1500" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1500" y="1245">0.46143862275449</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1510" x2="1510" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1510" y="1245">0.464620958083832</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1520" x2="1520" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1520" y="1245">0.467803293413173</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1530" x2="1530" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1530" y="1245">0.470985628742514</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1540" x2="1540" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1540" y="1245">0.474167964071856</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1550" x2="1550" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1550" y="1245">0.477350299401197</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1560" x2="1560" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1560" y="1245">0.480532634730538</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1570" x2="1570" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1570" y="1245">0.48371497005988</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1580" x2="1580" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1580" y="1245">0.486897305389221</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1590" x2="1590" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1590" y="1245">0.490079640718562</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1600" x2="1600" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1600" y="1245">0.493261976047904</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1610" x2="1610" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1610" y="1245">0.496444311377245</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1620" x2="1620" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1620" y="1245">0.499626646706586</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1630" x2="1630" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1630" y="1245">0.502808982035928</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1640" x2="1640" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1640" y="1245">0.505991317365269</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1650" x2="1650" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1650" y="1245">0.50917365269461</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1660" x2="1660" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1660" y="1245">0.512355988023952</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1670" x2="1670" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1670" y="1245">0.515538323353293</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1680" x2="1680" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1680" y="1245">0.518720658682634</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1690" x2="1690" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1690" y="1245">0.521902994011975</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1700" x2="1700" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1700" y="1245">0.525085329341317</text>
+    <line class="scale_major" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1710" x2="1710" y1="1275" y2="1255" />
+    <text class="major_label" style="" transform="rotate()" x="1710" y="1245">0.528267664670658</text>
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="83.4" x2="83.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="116.8" x2="116.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="183.6" x2="183.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="217" x2="217" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="283.8" x2="283.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="317.2" x2="317.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="384" x2="384" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="417.4" x2="417.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="484.2" x2="484.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="517.6" x2="517.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="584.4" x2="584.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="617.8" x2="617.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="651.2" x2="651.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="684.6" x2="684.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="718" x2="718" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="751.4" x2="751.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="784.8" x2="784.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="818.2" x2="818.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="851.6" x2="851.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="885" x2="885" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="918.4" x2="918.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="951.799999999999" x2="951.799999999999" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="985.199999999999" x2="985.199999999999" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1018.6" x2="1018.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1052" x2="1052" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1085.4" x2="1085.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1118.8" x2="1118.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1152.2" x2="1152.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1185.6" x2="1185.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1219" x2="1219" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1252.4" x2="1252.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1285.8" x2="1285.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1319.2" x2="1319.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1352.6" x2="1352.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1386" x2="1386" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1419.4" x2="1419.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1452.8" x2="1452.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1486.2" x2="1486.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1519.6" x2="1519.6" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1553" x2="1553" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1586.4" x2="1586.4" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1619.8" x2="1619.8" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1653.2" x2="1653.2" y1="1275" y2="1265" />
+    <line class="scale_minor" style="stroke: black; stroke-linecap: butt; stroke-width: 1" x1="1686.6" x2="1686.6" y1="1275" y2="1265" />
+</svg>
